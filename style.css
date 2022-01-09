@@ -1,0 +1,18 @@
+body{
+    background-color: orangered;
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
+.head{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+#result{
+    text-align: center;
+}
